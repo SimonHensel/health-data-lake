@@ -1,5 +1,5 @@
 # health-data-lake
-Ein Data Lake für öffentlich verfügbare Gesundheitsdaten zum Training künstlicher Intelligenzen. Diese Sammlung von relevanten K.I. Datensätzen wurde als Teil des KI-transdisziplinär der Hochschule Niederrhein erstellt.
+Ein Data Lake für öffentlich verfügbare Gesundheitsdaten zum Training künstlicher Intelligenzen. Diese Sammlung von relevanten K.I. Datensätzen wurde als Teil des KI-transdisziplinär Projekts der Hochschule Niederrhein erstellt.
 
 Homepage: https://www.hs-niederrhein.de/hochschul-und-mediendidaktik/ki
 
@@ -39,9 +39,9 @@ Sollten Sie Datensätze in dieser öffentlichen Sammlung vermissen, können Sie 
 
 
 
-# Einzelne relevante Datensätze sortiert nach Anwendungsfall
+# Einzelne relevante Datensätze sortiert nach Anwendungsfall mit Bewertung
 
-Künstliche Inteligenz kann in verschiedenen Anwendungsfällen zum Einsatz kommen. Darunter sind die Verarbeitung von verschiedenen Datenquellen, wie Bild, Text oder Sound aber auch Optimierungsanwendung.
+Künstliche Inteligenz kann in verschiedenen Anwendungsfällen zum Einsatz kommen. Darunter sind die Verarbeitung von verschiedenen Datenquellen, wie Bild, Text oder Sound aber auch Optimierungsanwendung. Zusätzlich sollen die Datensätze nach Kategorien wie Größe, Verwendbarkeit, Klassengleichgewicht und anderen Merkmalen bertet werden. 
 
 ## Bildverarbeitung
 | Name      | Webseite | Bewertung |
@@ -52,6 +52,21 @@ Künstliche Inteligenz kann in verschiedenen Anwendungsfällen zum Einsatz komme
 
 ## Textverarbeitung
 
+| Name      | Webseite | Bewertung |
+| ----------- | ----------- | ------------ |
+| Patient Reviews of Doctor's Text Classification | https://www.kaggle.com/datasets/thedevastator/german-2021-patient-reviews-and-ratings-of-docto | **Pros:** groß, gut geeignet für simple Natural Language Processing Aufgaben, Deutsche Sprache **Cons:** Nicht sehr ausgeglichen (1er Bewertungen machen mehr als 3/4 des Datensatzes aus) |
+| MeDAL Dataset | https://www.kaggle.com/datasets/xhlulu/medal-emnlp | TODO |
+| Drug Indications | https://www.kaggle.com/datasets/deepakdeepu8978/drug-indications-drug-engineering-with-ai | TODO |
+| Mental Health FAQ for Chatbot | https://www.kaggle.com/datasets/narendrageek/mental-health-faq-for-chatbot | TODO |
+
 ## Soundverarbeitung
 
+| Name      | Webseite | Bewertung |
+| ----------- | ----------- | ------------ |
+| Medical Speech, Transcription, and Intent | https://www.kaggle.com/datasets/paultimothymooney/medical-speech-transcription-and-intent | TODO |
+
 ## Optimierung
+
+| Name      | Webseite | Bewertung |
+| ----------- | ----------- | ------------ |
+| Hospital Capacity Planning Using Discrete Event Simulation | https://cran.r-project.org/web/packages/babsim.hospital/vignettes/babsim-vignette-introduction.html | TODO |
