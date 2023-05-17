@@ -49,6 +49,10 @@ Künstliche Inteligenz kann in verschiedenen Anwendungsfällen zum Einsatz komme
 | CT Medical Images | https://www.kaggle.com/datasets/kmader/siim-medical-images | TODO |
 | COVID-19 XRAY Dataset | https://github.com/v7labs/covid-19-xray-dataset | TODO |
 | NIH Chest X-ray | https://www.kaggle.com/datasets/nih-chest-xrays/data | TODO |
+Skin Cancer MNIST: HAM10000 | https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
+Leukemia Classification | https://www.kaggle.com/datasets/andrewmvd/leukemia-classification
+Retinal OCT Images (optical coherence tomography) | https://www.kaggle.com/datasets/paultimothymooney/kermany2018
+
 
 ## Textverarbeitung
 
