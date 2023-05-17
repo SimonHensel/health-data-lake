@@ -177,6 +177,7 @@ Breast Cancer Wisconsin (Diagnostic) Data Set | https://www.kaggle.com/datasets/
 Cervical Cancer Risk Classification | https://www.kaggle.com/datasets/loveall/cervical-cancer-risk-classification
 mVAN : COVID mRNA Vaccine Analysis Notebook [.268] | https://www.kaggle.com/code/aestheteaman01/mvan-covid-mrna-vaccine-analysis-notebook-268
 Diabetes Prediction using Machine Learning | https://www.kaggle.com/code/ahmetcankaraolan/diabetes-prediction-using-machine-learning
+Drug Indications Database | https://data.world/basilhayek/drug-indications-database 
 
 
 ## Soundverarbeitung
